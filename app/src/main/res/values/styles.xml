@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+     <style name="SpeedometerMedium">
+        <item name="android:layout_width">@dimen/speedometer_med_layout_width</item>
+        <item name="android:layout_height">@dimen/speedometer_med_layout_height</item>
+        <item name="arrow_length">@dimen/speedometer_med_arrow_length</item>
+        <item name="scale_dots_radius">@dimen/speedometer_med_scale_dots_radius</item>
+        <item name="scale_digits_radius">@dimen/speedometer_med_scale_digits_radius</item>
+        <item name="scale_font_size">@dimen/speedometer_med_scale_font_size</item>
+        <item name="scale_font_active_size">@dimen/speedometer_med_scale_font_active_size</item>
+	</style>        
+    
+</resources>

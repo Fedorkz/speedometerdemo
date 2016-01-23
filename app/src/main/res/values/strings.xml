@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW Acceleration test</string>
+    <string name="single_thread_text">Single Thread Model</string>
+    <string name="another_thread_text">Another Thread Model</string>
+    <string name="enable_hw">Enable Hardware Acceleration</string>
+    
+</resources>

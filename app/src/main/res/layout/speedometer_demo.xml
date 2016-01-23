@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:spd="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    >
+
+    <com.fedorkzsoft.speedometer.SpeedometerView
+        android:id="@+id/single_thread_view"
+        android:keepScreenOn="true"
+		
+        style="@style/SpeedometerMedium"
+        />
+    
+</RelativeLayout>

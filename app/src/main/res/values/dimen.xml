@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="speedometer_med_layout_width">300dp</dimen>
+        <dimen name="speedometer_med_layout_height">200dp</dimen>
+        <dimen name="speedometer_med_arrow_length">120dp</dimen>
+        <dimen name="speedometer_med_scale_dots_radius">110dp</dimen>
+        <dimen name="speedometer_med_scale_digits_radius">120dp</dimen>
+        <dimen name="speedometer_med_scale_font_size">15dp</dimen>
+        <dimen name="speedometer_med_scale_font_active_size">20dp</dimen>
+</resources>

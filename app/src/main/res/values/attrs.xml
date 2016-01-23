@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="speedometer">
+		<attr name="arrow_length" format="dimension"/>
+		<attr name="scale_digits_radius" format="dimension"/>
+		<attr name="scale_dots_radius" format="dimension"/>
+		<attr name="scale_font_size" format="dimension"/>
+		<attr name="scale_font_active_size" format="dimension"/>
+	</declare-styleable>
+   
+</resources>
